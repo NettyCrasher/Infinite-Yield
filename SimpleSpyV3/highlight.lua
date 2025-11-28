@@ -4,6 +4,7 @@
     Features:
      - uses the power of fancy syntax detection algorithms to convert a frame into a syntax highlighted high quality code box
      - is cool
+     - get skilled
 ]]
 
 local cloneref  = cloneref or function(...) return ... end
@@ -510,3 +511,4 @@ function constructor.new(...)
 end
 
 return constructor
+
