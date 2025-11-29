@@ -1,5 +1,4 @@
--- Modern Infinite Yield FE
--- Fully functional with modern UI
+-- MyzkaHub
 
 if IY_LOADED and not _G.IY_DEBUG == true then
     return
